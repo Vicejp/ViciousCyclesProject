@@ -7,7 +7,7 @@ body {
     width:100%;
     height: auto;
     overflow:hidden;
-    background-color: black;
+    background-color: #E7FBFB;
 
 
 
@@ -34,8 +34,9 @@ body {
 .text-wrapper h1 {
 
 text-align:center;
-color: #ffffff;
-font-size: 400%;
+color: #010B5B;
+font-size: 4em; 
+    font-align: center;
 font-family: 'Pacifico', cursive;
 }
 
